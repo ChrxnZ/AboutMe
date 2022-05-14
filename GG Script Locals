@@ -1,0 +1,25 @@
+local a = gg.alert
+local t = gg.toast
+local sn = gg.searchNumber
+local r = gg.refineNumber
+local cr = gg.clearResults
+local cl = gg.clearList
+local e = gg.editAll
+local rr = gg.removeResults
+local p = gg.prompt
+local iv = gg.isVisible
+local sv = gg.setVisible
+local gr = gg.getResults
+local sr = gg.setRanges
+local c = gg.choice
+local mc = gg.multiChoice
+local s = gg.sleep
+local tpa = gg.TYPE_AUTO
+local tpd = gg.TYPE_DWORD
+local tpf = gg.TYPE_FLOAT
+local tpq = gg.TYPE_QWORD
+local tpw = gg.TYPE_WORD 
+local tpb = gg.TYPE_BYTE
+local rca = gg.REGION_CODE_APP
+
+(Updating Later)
